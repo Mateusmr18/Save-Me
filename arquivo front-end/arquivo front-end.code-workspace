@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Enter",
+			"path": "../database/Enter"
+		}
+	],
+	"settings": {}
+}

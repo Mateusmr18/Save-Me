@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* Melon() Ice Blue() Powder blue () Sky magenta() Tekhelet()*/
+/*Segundo padrão Ultra Violet(6BB5CA5), Ice blue (83F9F3), Powder Blue(93BEDF), Peach(FFB997) Melon(EFB0A1)*/
+body{ 
+    background-image:linear-gradient(to right, #FBC2B5, #C45AB3, #631A86);    
+}
+/*Display mouse +icone*/
+main{
+    background-image:linear-gradient(to top,#FBC2B5, #8EF9F3, #93BEDF) ;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #C45AB3;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color:#631A86 ;
+    text-align: center;
+    text-shadow:1px 1px 2px #C45AB3;
+}
+/*Icone+animação de texto e aparição*/
+h2{
+    color: #C45AB3;
+}
+
+nav{
+    background-color:white ;
+}
+
+h3{
+    color: #C45AB3;
+    box-sizing: border-box;
+    background-color: #8EF9F3;
+}
+/*Display de animação escondido+lado*/
+form{
+    background-image:linear-gradient(to top,#FBC2B5, #8EF9F3, #93BEDF) ;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #C45AB3;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+p{
+    text-align: justify;
+    color: black;
+}
